@@ -36,7 +36,7 @@ importers:
         version: 1.0.3
       '@movie-web/providers':
         specifier: github:scoilcax/providers
-        version: git+https://git@github.com:scoilcax/providers.git#626ae5908fd9bfc786cf19aa0fd07deb1633d380
+        version: git+https://git@github.com:scoilcax/providers.git
       '@noble/hashes':
         specifier: ^1.4.0
         version: 1.4.0
