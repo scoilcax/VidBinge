@@ -35,8 +35,8 @@ importers:
         specifier: ^1.0.3
         version: 1.0.3
       '@movie-web/providers':
-        specifier: github:VidBingeApp/providers
-        version: git+https://git@github.com:VidBingeApp/providers.git#f2b5f5d987cffbfe788cc85af8303be867d89ed9
+        specifier: github:scoilcax/providers
+        version: git+https://git@github.com:scoilcax/providers.git#f2b5f5d987cffbfe788cc85af8303be867d89ed9
       '@noble/hashes':
         specifier: ^1.4.0
         version: 1.4.0
